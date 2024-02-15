@@ -2,7 +2,8 @@
 
 Code for the journal article: [Distinguishing recurrence from radiation-induced lung injury at the time of RECIST progressive disease on post-SABR CT scans using radiomics](https://doi.org/10.1038/s41598-024-52828-4)
 
-Important: due to storage restrictions, I had to remove the data files from this GitHub repo. A version of the repo with the datafiles included exists [here](https://uwoca-my.sharepoint.com/:f:/g/personal/sdammak_uwo_ca/ErQBBaxJoBxEkdXYB-QnHsIBJKUf4ptOfFzPrgEmQkTo8Q?e=PjtzSN).
+IMPORTANT: due to storage restrictions, I had to remove the data files from this GitHub repo. A version of the repo with the datafiles included exists [here](https://uwoca-my.sharepoint.com/:f:/g/personal/sdammak_uwo_ca/ErQBBaxJoBxEkdXYB-QnHsIBJKUf4ptOfFzPrgEmQkTo8Q?e=PjtzSN).
+
 As a first step, please unzip the "Code.zip" folder in each parent folder and put a copy in each of its experiment subfolders.
 An experiment subfolder is one that has "Experiment.m" in it.
 
