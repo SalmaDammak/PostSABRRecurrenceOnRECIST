@@ -1,0 +1,2 @@
+BaseDir: E:\Users\sdammak\Data\LUNG SABR RECIST-Increase\VUMC\4 RECIST Increase
+RECISTTable: E:\Users\sdammak\Experiments\LUNG SABR RECIST-Increase\1 VUMC\1 RECIST\2 Clean RECIST table [2023-05-31_16.59.59]\Results\01 Experiment Section\RECIST.mat
